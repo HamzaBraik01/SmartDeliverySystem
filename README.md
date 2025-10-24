@@ -19,7 +19,6 @@
 - [Utilisation](#-utilisation)
 - [Fonctionnalités](#-fonctionnalités)
 - [Structure du Projet](#-structure-du-projet)
-- [Documentation Technique](#-documentation-technique)
 - [Évolutions Futures](#-évolutions-futures)
 
 ---
@@ -426,32 +425,6 @@ smart-delivery-system/
 
 ---
 
-## 📚 Documentation Technique
-
-### Guides Disponibles
-
-1. **[CONFIGURATION_XML_EXPLICATION.md](CONFIGURATION_XML_EXPLICATION.md)**
-   - Explication détaillée de la configuration Spring XML
-   - Comparaison annotations vs XML
-   - Types d'injection de dépendances
-   - Scopes des beans
-
-2. **[FLUX_VISUALISATION.md](FLUX_VISUALISATION.md)**
-   - Schémas d'architecture visuels
-   - Cycle de vie des beans Spring
-   - Ordre d'exécution détaillé
-   - Relations entre composants
-
-3. **[README_CONFIGURATION_XML.md](README_CONFIGURATION_XML.md)**
-   - Guide rapide de référence
-   - Aide-mémoire
-   - Commandes utiles
-
-4. **[CREATION_DATABASE.md](CREATION_DATABASE.md)**
-   - Guide de création de la base de données
-   - Résolution des problèmes de connexion
-
----
 
 ## 🧪 Tests
 
